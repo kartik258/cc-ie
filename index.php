@@ -81,7 +81,7 @@
     <h1>Hotel Management System</h1>
     <div class="container">
         <h2>Make a Reservation</h2>
-        <form method="post" action="reservation.php">
+        <form method="post" action="index.php">
             <div class="form-group">
                 <label for="name">Guest Name:</label>
                 <input type="text" id="name" name="name" value="" required>
